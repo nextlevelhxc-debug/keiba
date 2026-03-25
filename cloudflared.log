@@ -1,0 +1,27 @@
+2026-03-25T07:26:38Z INF Thank you for trying Cloudflare Tunnel. Doing so, without a Cloudflare account, is a quick way to experiment and try it out. However, be aware that these account-less Tunnels have no uptime guarantee, are subject to the Cloudflare Online Services Terms of Use (https://www.cloudflare.com/website-terms/), and Cloudflare reserves the right to investigate your use of Tunnels for violations of such terms. If you intend to use Tunnels in production you should use a pre-created named tunnel by following: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps
+2026-03-25T07:26:38Z INF Requesting new quick Tunnel on trycloudflare.com...
+2026-03-25T07:26:43Z INF +--------------------------------------------------------------------------------------------+
+2026-03-25T07:26:43Z INF |  Your quick Tunnel has been created! Visit it at (it may take some time to be reachable):  |
+2026-03-25T07:26:43Z INF |  https://too-simultaneously-jose-paso.trycloudflare.com                                    |
+2026-03-25T07:26:43Z INF +--------------------------------------------------------------------------------------------+
+2026-03-25T07:26:43Z INF Cannot determine default configuration path. No file [config.yml config.yaml] in [~/.cloudflared ~/.cloudflare-warp ~/cloudflare-warp /etc/cloudflared /usr/local/etc/cloudflared]
+2026-03-25T07:26:43Z INF Version 2026.3.0 (Checksum 99f099a3834e0b20ec2a18ac77d3d77261b77652310d97eca18fc1797d4349d0)
+2026-03-25T07:26:43Z INF GOOS: darwin, GOVersion: go1.26.1, GoArch: arm64
+2026-03-25T07:26:43Z INF Settings: map[ha-connections:1 protocol:quic url:http://localhost:8501]
+2026-03-25T07:26:43Z INF cloudflared will not automatically update if installed by a package manager.
+2026-03-25T07:26:53Z ERR Failed to fetch features, default to disable error="lookup cfd-features.argotunnel.com on 172.22.22.1:53: dial udp 172.22.22.1:53: i/o timeout"
+2026-03-25T07:26:53Z INF Generated Connector ID: 16638eed-f40d-48e0-8b9b-a1634834edfe
+2026-03-25T07:27:13Z WRN Unable to lookup protocol percentage.
+2026-03-25T07:27:13Z INF Initial protocol quic
+2026-03-25T07:27:13Z INF ICMP proxy will use 172.22.22.23 as source for IPv4
+2026-03-25T07:27:13Z INF ICMP proxy will use fe80::1853:b232:2282:51c5 in zone en0 as source for IPv6
+2026-03-25T07:27:13Z INF Created ICMP proxy listening on 172.22.22.23:0
+2026-03-25T07:27:35Z INF ICMP proxy will use 172.22.22.23 as source for IPv4
+2026-03-25T07:27:35Z INF ICMP proxy will use fe80::1853:b232:2282:51c5 in zone en0 as source for IPv6
+2026-03-25T07:27:35Z INF Starting metrics server on 127.0.0.1:20241/metrics
+2026-03-25T07:27:55Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveP256] connIndex=0 event=0 ip=198.41.200.73
+2026-03-25T07:27:56Z INF Registered tunnel connection connIndex=0 connection=53f8c5ec-a0f4-41e5-9131-6060df4e6857 event=0 ip=198.41.200.73 location=nrt16 protocol=quic
+2026-03-25T07:28:00Z ERR Failed to initialize DNS local resolver error="lookup region1.v2.argotunnel.com: i/o timeout"
+2026-03-25T07:33:05Z ERR Failed to refresh DNS local resolver error="lookup region1.v2.argotunnel.com: i/o timeout"
+2026-03-25T07:38:10Z ERR Failed to refresh DNS local resolver error="lookup region1.v2.argotunnel.com: i/o timeout"
+2026-03-25T07:43:15Z ERR Failed to refresh DNS local resolver error="lookup region1.v2.argotunnel.com: i/o timeout"
