@@ -41,3 +41,4 @@ localtunnel.log
 # Data files (DB is too large for GitHub)
 data/*.db
 data/*.sqlite
+catboost_info/
