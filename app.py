@@ -30,6 +30,23 @@ correct_password = "keiba"
 
 if password == correct_password:
     st.success("認証成功！ようこそ！")
+    
+    # --- システム管理（メイン画面トップに表示） ---
+    with st.expander("🔄 データの更新・操作ガイド", expanded=True):
+        col1, col2 = st.columns([2, 1])
+        with col1:
+            st.markdown("""
+            **自動更新スケジュール:**
+            - 金曜 18:00頃（枠順確定）
+            - 土曜 08:30頃（当日オッズ）
+            - 日曜 08:30頃（当日オッズ）
+            """)
+        with col2:
+            actions_url = "https://github.com/nextlevelhxc-debug/keiba/actions/workflows/auto_predict.yml"
+            st.link_button("🚀 今すぐ更新する", actions_url, use_container_width=True)
+        
+        st.caption("※GitHubで『Run workflow』を押した後、反映まで3〜5分かかります。")
+
     st.markdown("---")
 
     # 予想データの読み込み

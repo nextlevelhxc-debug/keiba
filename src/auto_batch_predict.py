@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import re
 import pandas as pd
 import numpy as np
+import argparse
 from datetime import datetime, timedelta
 
 # インポートパスの設定
@@ -130,7 +131,7 @@ def get_update_status():
     
     if weekday == 4:  # 金曜
         return "【暫定評価】（枠順確定・オッズ未反映）"
-    elif weekday == 6 and now.hour >= 9:
+    elif weekday in [5, 6] and now.hour >= 8: # 土・日の朝8時以降
         return "【勝負買い目確定】（当日最新オッズ反映済み）"
     else:
         return "【最新予想】"
@@ -162,6 +163,10 @@ def generate_reasoning(hd, features):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--status', type=str, default='', help='Manual update status')
+    args = parser.parse_args()
+
     logger.info("=== 週末競馬戦略SOP 実行エンジン 起動 ===")
 
     # --- データベース接続 (クラウド環境用フォールバック付) ---
@@ -182,7 +187,9 @@ def main():
 
     win_model, place_model = load_lgbm_models()
     use_lgbm = (win_model is not None and place_model is not None)
-    update_status = get_update_status()
+    
+    # 引数があれば優先、なければ自動判定
+    update_status = args.status if args.status else get_update_status()
     
     predictions_data = {
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),

@@ -4,9 +4,16 @@ on:
   schedule:
     # 毎週金曜日の日本時間18:00 (UTC 09:00) 枠順確定後
     - cron: '0 9 * * 5'
-    # 毎週日曜日の日本時間09:30 (UTC 00:30) 最新オッズ反映後
-    - cron: '30 0 * * 0'
-  workflow_dispatch: # 手動でもボタンポチで実行できるようにする設定
+    # 毎週土曜日の日本時間08:30 (UTC 23:30 Friday) 
+    - cron: '30 23 * * 5'
+    # 毎週日曜日の日本時間08:30 (UTC 23:30 Saturday)
+    - cron: '30 23 * * 6'
+  workflow_dispatch:
+    inputs:
+      status:
+        description: '更新ステータスのメッセージ（例：【最新予想】、勝負用など）'
+        required: false
+        default: ''
 
 jobs:
   predict_and_update:
@@ -29,7 +36,7 @@ jobs:
 
     - name: Run Auto Prediction Script
       run: |
-        python src/auto_batch_predict.py
+        python src/auto_batch_predict.py --status "${{ github.event.inputs.status }}"
         
     - name: Commit and Push changes
       run: |
