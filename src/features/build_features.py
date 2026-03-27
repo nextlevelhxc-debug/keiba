@@ -65,7 +65,11 @@ def preprocess_and_clean(df):
         match = re.match(r'(\d+)\(([-+]\d+|0)\)', str(w_str))
         if match:
             return float(match.group(1)), float(match.group(2))
-        return float(str(w_str).replace(' ', '')), 0.0
+        # 数字のみの文字列を変換（変換できない場合はNaNを返す）
+        try:
+            return float(str(w_str).replace(' ', '')), 0.0
+        except ValueError:
+            return np.nan, 0.0
 
     import re
     weights = df['馬体重'].apply(extract_weight)
@@ -82,8 +86,11 @@ def preprocess_and_clean(df):
         return np.nan
     df['time_sec'] = df['タイム'].apply(time_to_sec)
     
-    # 上がり3F
-    df['last_3f'] = pd.to_numeric(df['上り'], errors='coerce')
+    # 上がり3F（「上り」カラムがない場合はNaNで代替）
+    if '上り' in df.columns:
+        df['last_3f'] = pd.to_numeric(df['上り'], errors='coerce')
+    else:
+        df['last_3f'] = np.nan
     
     # 性齢の分離 (例: "牡3" -> "牡", 3)
     df['sex'] = df['性齢'].str[0]

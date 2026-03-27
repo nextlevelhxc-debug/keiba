@@ -259,8 +259,11 @@ def main():
             if df_result is not None and not df_result.empty:
                 # DBに保存
                 try:
-                    # sqliteエラーを防ぐためカラム名の空白を削除
-                    df_result.columns = [str(c).replace(' ', '').replace('　', '') for c in df_result.columns]
+                    # カラム名の正規化：半角スペース・全角スペース・改行・タブをすべて除去
+                    df_result.columns = [
+                        re.sub(r'[\s\u3000]+', '', str(c)) for c in df_result.columns
+                    ]
+                    logger.debug(f"クレンジング後のカラム名: {df_result.columns.tolist()}")
                     
                     # 保存先テーブルに存在するカラムだけを抽出
                     target_cols = [
@@ -270,9 +273,23 @@ def main():
                     ]
                     # df_resultに存在するカラムだけ残す
                     available_cols = [c for c in target_cols if c in df_result.columns]
+                    logger.debug(f"保存対象カラム: {available_cols}")
                     df_save = df_result[available_cols].astype(str)
                     
-                    df_save.to_sql('historical_race_results', con=engine, if_exists='append', index=False)
+                    # INSERT OR IGNORE を使い、UNIQUE制約違反（重複）はスキップ
+                    def insert_or_ignore(table, conn, keys, data_iter):
+                        from sqlalchemy.dialects.sqlite import insert as sqlite_insert
+                        stmt = sqlite_insert(table.table).values(list(data_iter))
+                        stmt = stmt.on_conflict_do_nothing()
+                        conn.execute(stmt)
+
+                    df_save.to_sql(
+                        'historical_race_results',
+                        con=engine,
+                        if_exists='append',
+                        index=False,
+                        method=insert_or_ignore
+                    )
                     logger.info(f"レース {race_id} をDBに保存しました。（{len(df_save)}頭）")
                 except Exception as e:
                     logger.error(f"DB保存エラー {race_id}: {e}")
