@@ -1,0 +1,397 @@
+{
+  "generated_at": "2026-03-25 16:30:21",
+  "races": [
+    {
+      "race_id": "202606020411",
+      "place": "中山",
+      "round": 11,
+      "top_pickup": {
+        "horse_number": 8,
+        "horse_name": "バステール",
+        "jockey_name": "川田",
+        "speed": 83.4,
+        "stamina": 62.5,
+        "explosiveness": 50.0,
+        "consistency": 96.8,
+        "experience": 46.0,
+        "jockey_score": 50.0,
+        "total_score": 388.7
+      },
+      "top_3_horses": [
+        {
+          "horse_number": 8,
+          "horse_name": "バステール",
+          "jockey_name": "川田",
+          "speed": 83.4,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 96.8,
+          "experience": 46.0,
+          "jockey_score": 50.0,
+          "total_score": 388.7
+        },
+        {
+          "horse_number": 6,
+          "horse_name": "アドマイヤクワッズ",
+          "jockey_name": "坂井",
+          "speed": 84.9,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 92.4,
+          "experience": 48.0,
+          "jockey_score": 50.0,
+          "total_score": 387.8
+        },
+        {
+          "horse_number": 1,
+          "horse_name": "ステラスペース",
+          "jockey_name": "武藤",
+          "speed": 83.1,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 80.8,
+          "experience": 56.0,
+          "jockey_score": 50.0,
+          "total_score": 382.4
+        }
+      ],
+      "recommended_bet": "馬連 8 - 6 (保険: 8 - 1)",
+      "all_horses": [
+        {
+          "horse_number": 8,
+          "horse_name": "バステール",
+          "jockey_name": "川田",
+          "speed": 83.4,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 96.8,
+          "experience": 46.0,
+          "jockey_score": 50.0,
+          "total_score": 388.7
+        },
+        {
+          "horse_number": 6,
+          "horse_name": "アドマイヤクワッズ",
+          "jockey_name": "坂井",
+          "speed": 84.9,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 92.4,
+          "experience": 48.0,
+          "jockey_score": 50.0,
+          "total_score": 387.8
+        },
+        {
+          "horse_number": 1,
+          "horse_name": "ステラスペース",
+          "jockey_name": "武藤",
+          "speed": 83.1,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 80.8,
+          "experience": 56.0,
+          "jockey_score": 50.0,
+          "total_score": 382.4
+        },
+        {
+          "horse_number": 4,
+          "horse_name": "ライヒスアドラー",
+          "jockey_name": "佐々木",
+          "speed": 82.9,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 92.4,
+          "experience": 26.0,
+          "jockey_score": 50.0,
+          "total_score": 363.8
+        },
+        {
+          "horse_number": 5,
+          "horse_name": "タイダルロック",
+          "jockey_name": "三浦",
+          "speed": 81.9,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 80.8,
+          "experience": 28.0,
+          "jockey_score": 50.0,
+          "total_score": 353.2
+        },
+        {
+          "horse_number": 10,
+          "horse_name": "バリオス",
+          "jockey_name": "高杉",
+          "speed": 81.8,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 75.9,
+          "experience": 24.0,
+          "jockey_score": 50.0,
+          "total_score": 344.20000000000005
+        },
+        {
+          "horse_number": 7,
+          "horse_name": "モウエエデショー",
+          "jockey_name": "原田和",
+          "speed": 80.6,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 58.5,
+          "experience": 34.0,
+          "jockey_score": 50.0,
+          "total_score": 335.6
+        },
+        {
+          "horse_number": 2,
+          "horse_name": "メイショウソラリス",
+          "jockey_name": "角田和",
+          "speed": 81.8,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 61.0,
+          "experience": 28.0,
+          "jockey_score": 50.0,
+          "total_score": 333.3
+        },
+        {
+          "horse_number": 3,
+          "horse_name": "コスモギガンティア",
+          "jockey_name": "矢野貴",
+          "speed": 78.7,
+          "stamina": 50.0,
+          "explosiveness": 50.0,
+          "consistency": 11.7,
+          "experience": 58.0,
+          "jockey_score": 50.0,
+          "total_score": 298.4
+        },
+        {
+          "horse_number": 9,
+          "horse_name": "アメテュストス",
+          "jockey_name": "大野",
+          "speed": 82.7,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 0.0,
+          "experience": 32.0,
+          "jockey_score": 50.0,
+          "total_score": 277.2
+        }
+      ]
+    },
+    {
+      "race_id": "202609010611",
+      "place": "阪神",
+      "round": 11,
+      "top_pickup": {
+        "horse_number": 1,
+        "horse_name": "トーセンリョウ",
+        "jockey_name": "鮫島駿",
+        "speed": 84.6,
+        "stamina": 62.5,
+        "explosiveness": 50.0,
+        "consistency": 89.1,
+        "experience": 28.0,
+        "jockey_score": 50.0,
+        "total_score": 364.2
+      },
+      "top_3_horses": [
+        {
+          "horse_number": 1,
+          "horse_name": "トーセンリョウ",
+          "jockey_name": "鮫島駿",
+          "speed": 84.6,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 89.1,
+          "experience": 28.0,
+          "jockey_score": 50.0,
+          "total_score": 364.2
+        },
+        {
+          "horse_number": 10,
+          "horse_name": "ブラックシールド",
+          "jockey_name": "国分優",
+          "speed": 84.3,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 69.3,
+          "experience": 4.0,
+          "jockey_score": 50.0,
+          "total_score": 320.1
+        },
+        {
+          "horse_number": 6,
+          "horse_name": "グランディア",
+          "jockey_name": "西村淳",
+          "speed": 84.1,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 63.8,
+          "experience": 6.0,
+          "jockey_score": 50.0,
+          "total_score": 316.4
+        }
+      ],
+      "recommended_bet": "馬連 1 - 10 (保険: 1 - 6)",
+      "all_horses": [
+        {
+          "horse_number": 1,
+          "horse_name": "トーセンリョウ",
+          "jockey_name": "鮫島駿",
+          "speed": 84.6,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 89.1,
+          "experience": 28.0,
+          "jockey_score": 50.0,
+          "total_score": 364.2
+        },
+        {
+          "horse_number": 10,
+          "horse_name": "ブラックシールド",
+          "jockey_name": "国分優",
+          "speed": 84.3,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 69.3,
+          "experience": 4.0,
+          "jockey_score": 50.0,
+          "total_score": 320.1
+        },
+        {
+          "horse_number": 6,
+          "horse_name": "グランディア",
+          "jockey_name": "西村淳",
+          "speed": 84.1,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 63.8,
+          "experience": 6.0,
+          "jockey_score": 50.0,
+          "total_score": 316.4
+        },
+        {
+          "horse_number": 3,
+          "horse_name": "ショウナンマグマ",
+          "jockey_name": "団野",
+          "speed": 82.6,
+          "stamina": 62.5,
+          "explosiveness": 50.0,
+          "consistency": 43.6,
+          "experience": 10.0,
+          "jockey_score": 50.0,
+          "total_score": 298.7
+        },
+        {
+          "horse_number": 4,
+          "horse_name": "ナムラエイハブ",
+          "jockey_name": "吉田隼",
+          "speed": 83.7,
+          "stamina": 50.0,
+          "explosiveness": 50.0,
+          "consistency": 52.8,
+          "experience": 4.0,
+          "jockey_score": 50.0,
+          "total_score": 290.5
+        },
+        {
+          "horse_number": 7,
+          "horse_name": "ヤマニンサンパ",
+          "jockey_name": "亀田",
+          "speed": 83.1,
+          "stamina": 50.0,
+          "explosiveness": 50.0,
+          "consistency": 52.8,
+          "experience": 2.0,
+          "jockey_score": 50.0,
+          "total_score": 287.9
+        },
+        {
+          "horse_number": 9,
+          "horse_name": "リラエンブレム",
+          "jockey_name": "浜中",
+          "speed": 82.9,
+          "stamina": 50.0,
+          "explosiveness": 50.0,
+          "consistency": 39.6,
+          "experience": 2.0,
+          "jockey_score": 50.0,
+          "total_score": 274.5
+        },
+        {
+          "horse_number": 13,
+          "horse_name": "ニホンピロキーフ",
+          "jockey_name": "田口",
+          "speed": 82.8,
+          "stamina": 50.0,
+          "explosiveness": 50.0,
+          "consistency": 39.6,
+          "experience": 2.0,
+          "jockey_score": 50.0,
+          "total_score": 274.4
+        },
+        {
+          "horse_number": 8,
+          "horse_name": "サブマリーナ",
+          "jockey_name": "武豊",
+          "speed": 82.8,
+          "stamina": 68.8,
+          "explosiveness": 50.0,
+          "consistency": 0.0,
+          "experience": 12.0,
+          "jockey_score": 60.6,
+          "total_score": 274.2
+        },
+        {
+          "horse_number": 5,
+          "horse_name": "テリオスララ",
+          "jockey_name": "松山",
+          "speed": 50.0,
+          "stamina": 50.0,
+          "explosiveness": 50.0,
+          "consistency": 50.0,
+          "experience": 20.0,
+          "jockey_score": 50.0,
+          "total_score": 270.0
+        },
+        {
+          "horse_number": 11,
+          "horse_name": "ブルーミンデザイン",
+          "jockey_name": "斎藤",
+          "speed": 50.0,
+          "stamina": 50.0,
+          "explosiveness": 50.0,
+          "consistency": 50.0,
+          "experience": 20.0,
+          "jockey_score": 50.0,
+          "total_score": 270.0
+        },
+        {
+          "horse_number": 12,
+          "horse_name": "トゥデイイズザデイ",
+          "jockey_name": "吉村",
+          "speed": 50.0,
+          "stamina": 50.0,
+          "explosiveness": 50.0,
+          "consistency": 50.0,
+          "experience": 20.0,
+          "jockey_score": 50.0,
+          "total_score": 270.0
+        },
+        {
+          "horse_number": 2,
+          "horse_name": "ドラゴンブースト",
+          "jockey_name": "岩田望",
+          "speed": 83.3,
+          "stamina": 50.0,
+          "explosiveness": 50.0,
+          "consistency": 0.0,
+          "experience": 4.0,
+          "jockey_score": 50.0,
+          "total_score": 237.3
+        }
+      ]
+    }
+  ]
+}

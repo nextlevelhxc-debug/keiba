@@ -37,3 +37,7 @@ localtunnel.log
 
 # Agent execution history
 .agents/
+
+# Data files (DB is too large for GitHub)
+data/*.db
+data/*.sqlite
