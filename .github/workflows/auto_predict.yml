@@ -1,6 +1,8 @@
 name: Auto Predict Weekly
 
 on:
+  push:
+    branches: [ main ]
   schedule:
     # 毎週金曜日の日本時間18:00 (UTC 09:00) 枠順確定後
     - cron: '0 9 * * 5'
