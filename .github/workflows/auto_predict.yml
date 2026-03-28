@@ -20,6 +20,8 @@ on:
 jobs:
   predict_and_update:
     runs-on: ubuntu-22.04
+    permissions:
+      contents: write
     
     steps:
     - name: Checkout repository
