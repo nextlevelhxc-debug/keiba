@@ -1,0 +1,1 @@
+apiUrl:'https://race.netkeiba.com/api/api_get_jra_odds.html',

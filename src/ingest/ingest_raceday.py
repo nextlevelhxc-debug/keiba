@@ -74,10 +74,10 @@ class RaceDayIngester(DataIngester):
 
     def fetch_today_odds(self, race_id: str):
         """
-        特定のレースの現在のオッズを取得されるメソッド。
+        特定のレースの現在のオッズを取得するメソッド。
         """
-        # 単複オッズのみに絞る
-        url = f"https://race.netkeiba.com/race/odds.html?type=b1&race_id={race_id}"
+        # 単複オッズのみに絞る (URL形式を修正: /odds/index.html)
+        url = f"https://race.netkeiba.com/odds/index.html?type=b1&race_id={race_id}"
         logger.info(f"オッズURL: {url} から最新データを取得します...")
         
         headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
@@ -86,20 +86,18 @@ class RaceDayIngester(DataIngester):
         
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Netkeibaのオッズテーブルは動的に生成される場合があるが、
-        # サーバー側でHTMLに含まれている場合は Odds_Table クラスを持つ
-        table = soup.select_one('table.Odds_Table')
-        
-        if not table:
-            # 代替案: div.Odds_List_Table 内の table を探す
-            wrapper = soup.select_one('.Odds_List_Table')
-            if wrapper:
-                table = wrapper.find('table')
-        
+        # セレクタの候補
+        selectors = ['table.Odds_Table', 'table[class*="Odds"]', 'div.Odds_List_Table table']
+        table = None
+        for sel in selectors:
+            table = soup.select_one(sel)
+            if table: break
+            
         if not table:
             # 最終手段: '単勝' 期待値が含まれるテキストを持つテーブルを探す
             for t in soup.find_all('table'):
-                if '単勝' in t.text and '人気' in t.text:
+                text = t.text
+                if '単勝' in text and ('人気' in text or 'オッズ' in text):
                     table = t
                     break
         
@@ -109,7 +107,8 @@ class RaceDayIngester(DataIngester):
             
         from io import StringIO
         try:
-            dfs = pd.read_html(StringIO(str(table)), flavor='html5lib')
+            # header=0 を明示的に指定
+            dfs = pd.read_html(StringIO(str(table)), flavor='html5lib', header=0)
             df_odds = dfs[0]
             
             # カラム名をクリーニング
@@ -117,7 +116,11 @@ class RaceDayIngester(DataIngester):
                 df_odds.columns = df_odds.columns.get_level_values(-1)
             df_odds.columns = [str(c).replace(' ', '').replace('\n', '') for c in df_odds.columns]
             
-            logger.info("オッズデータのパース完了")
+            # 馬番を数値に変換（マージ用）
+            if '馬番' in df_odds.columns:
+                df_odds['馬番'] = pd.to_numeric(df_odds['馬番'], errors='coerce')
+                
+            logger.info(f"オッズデータのパース完了: {len(df_odds)}頭分")
             return df_odds
         except Exception as e:
             logger.error(f"オッズテーブルのパースに失敗しました: {e}")
