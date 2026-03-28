@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28 09:47:01",
-  "update_status": "【勝負買い目確定】（当日最新オッズ反映済み）",
+  "generated_at": "2026-03-28 02:15:49",
+  "update_status": "【最新予想】",
   "races": [
     {
       "race_id": "202606030111",
@@ -151,19 +151,6 @@
           "reasoning": "リビアングラス: 時計面で若干の不安要素あり / 三浦騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 8,
-          "horse_name": "ホウオウノーサイド",
-          "jockey_name": "杉原",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.1,
-          "expectancy_score": 0.01,
-          "miaomi_score": 1.0,
-          "is_value": false,
-          "reasoning": "ホウオウノーサイド: 時計面で若干の不安要素あり / 杉原騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
           "horse_number": 11,
           "horse_name": "ミステリーウェイ",
           "jockey_name": "松本",
@@ -177,9 +164,9 @@
           "reasoning": "ミステリーウェイ: 時計面で若干の不安要素あり / 松本騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 13,
-          "horse_name": "ブレイヴロッカー",
-          "jockey_name": "荻野極",
+          "horse_number": 8,
+          "horse_name": "ホウオウノーサイド",
+          "jockey_name": "杉原",
           "popularity": 10,
           "odds": 9.9,
           "win_prob": 0.1,
@@ -187,7 +174,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ブレイヴロッカー: 時計面で若干の不安要素あり / 荻野極騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ホウオウノーサイド: 時計面で若干の不安要素あり / 杉原騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 14,
@@ -203,17 +190,17 @@
           "reasoning": "ローシャムパーク: 時計面で若干の不安要素あり / ルメール騎手への乗り替わりは明確な勝負気配 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 5,
-          "horse_name": "アスクナイスショー",
-          "jockey_name": "田辺",
+          "horse_number": 13,
+          "horse_name": "ブレイヴロッカー",
+          "jockey_name": "荻野極",
           "popularity": 10,
           "odds": 9.9,
           "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "アスクナイスショー: 時計面で若干の不安要素あり / 田辺騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ブレイヴロッカー: 時計面で若干の不安要素あり / 荻野極騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 7,
@@ -229,9 +216,9 @@
           "reasoning": "コスモキュランダ: 時計面で若干の不安要素あり / 横山武騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 9,
-          "horse_name": "マイネルケレリウス",
-          "jockey_name": "松岡",
+          "horse_number": 5,
+          "horse_name": "アスクナイスショー",
+          "jockey_name": "田辺",
           "popularity": 10,
           "odds": 9.9,
           "win_prob": 0.1,
@@ -239,7 +226,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "マイネルケレリウス: 時計面で若干の不安要素あり / 松岡騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "アスクナイスショー: 時計面で若干の不安要素あり / 田辺騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 10,
@@ -253,6 +240,19 @@
           "miaomi_score": 0.0,
           "is_value": false,
           "reasoning": "シャイニングソード: 時計面で若干の不安要素あり / 西村淳騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 9,
+          "horse_name": "マイネルケレリウス",
+          "jockey_name": "松岡",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "マイネルケレリウス: 時計面で若干の不安要素あり / 松岡騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 12,
@@ -444,19 +444,6 @@
           "reasoning": "ブレイクフォース: 時計面で若干の不安要素あり / 横山武騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 5,
-          "horse_name": "レヴォントゥレット",
-          "jockey_name": "ディー",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
-          "is_value": false,
-          "reasoning": "レヴォントゥレット: 時計面で若干の不安要素あり / ディー騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
           "horse_number": 6,
           "horse_name": "ヴァルツァーシャル",
           "jockey_name": "丹内",
@@ -468,6 +455,19 @@
           "miaomi_score": 0.0,
           "is_value": false,
           "reasoning": "ヴァルツァーシャル: 時計面で若干の不安要素あり / 丹内騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 5,
+          "horse_name": "レヴォントゥレット",
+          "jockey_name": "ディー",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "レヴォントゥレット: 時計面で若干の不安要素あり / ディー騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 7,
@@ -496,19 +496,6 @@
           "reasoning": "オメガギネス: 時計面で若干の不安要素あり / 横山和騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 10,
-          "horse_name": "バスタードサフラン",
-          "jockey_name": "舟山",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
-          "is_value": false,
-          "reasoning": "バスタードサフラン: 時計面で若干の不安要素あり / 舟山騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
           "horse_number": 11,
           "horse_name": "ペイシャエス",
           "jockey_name": "木幡巧",
@@ -520,6 +507,19 @@
           "miaomi_score": 0.0,
           "is_value": false,
           "reasoning": "ペイシャエス: 時計面で若干の不安要素あり / 木幡巧騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 10,
+          "horse_name": "バスタードサフラン",
+          "jockey_name": "舟山",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "バスタードサフラン: 時計面で若干の不安要素あり / 舟山騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 12,
@@ -685,32 +685,6 @@
           "reasoning": "ミッキーツインクル: 時計面で若干の不安要素あり / 中井騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 2,
-          "horse_name": "ルージュソリテール",
-          "jockey_name": "西塚",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.1,
-          "expectancy_score": 0.01,
-          "miaomi_score": 1.0,
-          "is_value": false,
-          "reasoning": "ルージュソリテール: 時計面で若干の不安要素あり / 西塚騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
-          "horse_number": 5,
-          "horse_name": "レオテミス",
-          "jockey_name": "柴田裕",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.1,
-          "expectancy_score": 0.01,
-          "miaomi_score": 1.0,
-          "is_value": false,
-          "reasoning": "レオテミス: 時計面で若干の不安要素あり / 柴田裕騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
           "horse_number": 7,
           "horse_name": "ジーティードレス",
           "jockey_name": "丸山",
@@ -724,6 +698,19 @@
           "reasoning": "ジーティードレス: 時計面で若干の不安要素あり / 丸山騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
+          "horse_number": 2,
+          "horse_name": "ルージュソリテール",
+          "jockey_name": "西塚",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "ルージュソリテール: 時計面で若干の不安要素あり / 西塚騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
           "horse_number": 8,
           "horse_name": "ウォーターガーベラ",
           "jockey_name": "高杉",
@@ -735,6 +722,19 @@
           "miaomi_score": 1.0,
           "is_value": false,
           "reasoning": "ウォーターガーベラ: 時計面で若干の不安要素あり / 高杉騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 5,
+          "horse_name": "レオテミス",
+          "jockey_name": "柴田裕",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "レオテミス: 時計面で若干の不安要素あり / 柴田裕騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 14,
@@ -763,19 +763,6 @@
           "reasoning": "エポックヴィーナス: 時計面で若干の不安要素あり / 田口騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 4,
-          "horse_name": "クリニクラウン",
-          "jockey_name": "岩田康",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
-          "is_value": false,
-          "reasoning": "クリニクラウン: 時計面で若干の不安要素あり / 岩田康騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
           "horse_number": 6,
           "horse_name": "マイエレメント",
           "jockey_name": "斎藤",
@@ -789,9 +776,9 @@
           "reasoning": "マイエレメント: 時計面で若干の不安要素あり / 斎藤騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 9,
-          "horse_name": "キタサンダムール",
-          "jockey_name": "国分恭",
+          "horse_number": 4,
+          "horse_name": "クリニクラウン",
+          "jockey_name": "岩田康",
           "popularity": 10,
           "odds": 9.9,
           "win_prob": 0.1,
@@ -799,7 +786,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "キタサンダムール: 時計面で若干の不安要素あり / 国分恭騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "クリニクラウン: 時計面で若干の不安要素あり / 岩田康騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 11,
@@ -813,6 +800,19 @@
           "miaomi_score": 0.0,
           "is_value": false,
           "reasoning": "ハニーコム: 時計面で若干の不安要素あり / 浜中騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 9,
+          "horse_name": "キタサンダムール",
+          "jockey_name": "国分恭",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "キタサンダムール: 時計面で若干の不安要素あり / 国分恭騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 12,
@@ -978,6 +978,19 @@
           "reasoning": "パンジャタワー: 時計面で若干の不安要素あり / 松山騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
+          "horse_number": 2,
+          "horse_name": "ビッグシーザー",
+          "jockey_name": "西村淳",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "ビッグシーザー: 時計面で若干の不安要素あり / 西村淳騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
           "horse_number": 7,
           "horse_name": "ヨシノイースター",
           "jockey_name": "田辺",
@@ -1004,22 +1017,9 @@
           "reasoning": "ナムラクレア: 時計面で若干の不安要素あり / 浜中騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 2,
-          "horse_name": "ビッグシーザー",
-          "jockey_name": "西村淳",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.1,
-          "expectancy_score": 0.01,
-          "miaomi_score": 1.0,
-          "is_value": false,
-          "reasoning": "ビッグシーザー: 時計面で若干の不安要素あり / 西村淳騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
-          "horse_number": 11,
-          "horse_name": "ララマセラシオン",
-          "jockey_name": "丸田",
+          "horse_number": 3,
+          "horse_name": "エーティーマクフィ",
+          "jockey_name": "富田",
           "popularity": 10,
           "odds": 9.9,
           "win_prob": 0.1,
@@ -1027,98 +1027,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "ララマセラシオン: 時計面で若干の不安要素あり / 丸田騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
-          "horse_number": 17,
-          "horse_name": "ペアポルックス",
-          "jockey_name": "岩田康",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
-          "is_value": false,
-          "reasoning": "ペアポルックス: 時計面で若干の不安要素あり / 岩田康騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
-          "horse_number": 16,
-          "horse_name": "フィオライア",
-          "jockey_name": "太宰",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
-          "is_value": false,
-          "reasoning": "フィオライア: 時計面で若干の不安要素あり / 太宰騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
-          "horse_number": 15,
-          "horse_name": "インビンシブルパパ",
-          "jockey_name": "佐々木",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
-          "is_value": false,
-          "reasoning": "インビンシブルパパ: 時計面で若干の不安要素あり / 佐々木騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
-          "horse_number": 12,
-          "horse_name": "ピューロマジック",
-          "jockey_name": "北村友",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
-          "is_value": false,
-          "reasoning": "ピューロマジック: 時計面で若干の不安要素あり / 北村友騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
-          "horse_number": 10,
-          "horse_name": "ママコチャ",
-          "jockey_name": "川田",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
-          "is_value": false,
-          "reasoning": "ママコチャ: 時計面で若干の不安要素あり / 川田騎手への乗り替わりは明確な勝負気配 / 直近の仕上がりは安定"
-        },
-        {
-          "horse_number": 9,
-          "horse_name": "サトノレーヴ",
-          "jockey_name": "ルメール",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
-          "is_value": false,
-          "reasoning": "サトノレーヴ: 時計面で若干の不安要素あり / ルメール騎手への乗り替わりは明確な勝負気配 / 直近の仕上がりは安定"
-        },
-        {
-          "horse_number": 8,
-          "horse_name": "ウインカーネリアン",
-          "jockey_name": "三浦",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.0,
-          "expectancy_score": 0.0,
-          "miaomi_score": 0.0,
-          "is_value": false,
-          "reasoning": "ウインカーネリアン: 時計面で若干の不安要素あり / 三浦騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "エーティーマクフィ: 時計面で若干の不安要素あり / 富田騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 6,
@@ -1132,6 +1041,19 @@
           "miaomi_score": 0.0,
           "is_value": false,
           "reasoning": "レッドモンレーヴ: 時計面で若干の不安要素あり / 酒井騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 8,
+          "horse_name": "ウインカーネリアン",
+          "jockey_name": "三浦",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "ウインカーネリアン: 時計面で若干の不安要素あり / 三浦騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 5,
@@ -1160,9 +1082,9 @@
           "reasoning": "ダノンマッキンリー: 時計面で若干の不安要素あり / 高杉騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 3,
-          "horse_name": "エーティーマクフィ",
-          "jockey_name": "富田",
+          "horse_number": 10,
+          "horse_name": "ママコチャ",
+          "jockey_name": "川田",
           "popularity": 10,
           "odds": 9.9,
           "win_prob": 0.1,
@@ -1170,7 +1092,85 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "エーティーマクフィ: 時計面で若干の不安要素あり / 富田騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ママコチャ: 時計面で若干の不安要素あり / 川田騎手への乗り替わりは明確な勝負気配 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 9,
+          "horse_name": "サトノレーヴ",
+          "jockey_name": "ルメール",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "サトノレーヴ: 時計面で若干の不安要素あり / ルメール騎手への乗り替わりは明確な勝負気配 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 12,
+          "horse_name": "ピューロマジック",
+          "jockey_name": "北村友",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "ピューロマジック: 時計面で若干の不安要素あり / 北村友騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 11,
+          "horse_name": "ララマセラシオン",
+          "jockey_name": "丸田",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "ララマセラシオン: 時計面で若干の不安要素あり / 丸田騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 15,
+          "horse_name": "インビンシブルパパ",
+          "jockey_name": "佐々木",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "インビンシブルパパ: 時計面で若干の不安要素あり / 佐々木騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 16,
+          "horse_name": "フィオライア",
+          "jockey_name": "太宰",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "フィオライア: 時計面で若干の不安要素あり / 太宰騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 17,
+          "horse_name": "ペアポルックス",
+          "jockey_name": "岩田康",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "ペアポルックス: 時計面で若干の不安要素あり / 岩田康騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 18,
@@ -1310,19 +1310,6 @@
           "reasoning": "アルトラムス: 時計面で若干の不安要素あり / 岩田望騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
-          "horse_number": 5,
-          "horse_name": "ブリガンティン",
-          "jockey_name": "原",
-          "popularity": 10,
-          "odds": 9.9,
-          "win_prob": 0.1,
-          "place_prob": 0.1,
-          "expectancy_score": 0.01,
-          "miaomi_score": 1.0,
-          "is_value": false,
-          "reasoning": "ブリガンティン: 時計面で若干の不安要素あり / 原騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
-        },
-        {
           "horse_number": 6,
           "horse_name": "ウップヘリーア",
           "jockey_name": "吉村",
@@ -1334,6 +1321,19 @@
           "miaomi_score": 1.0,
           "is_value": false,
           "reasoning": "ウップヘリーア: 時計面で若干の不安要素あり / 吉村騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 5,
+          "horse_name": "ブリガンティン",
+          "jockey_name": "原",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "ブリガンティン: 時計面で若干の不安要素あり / 原騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         },
         {
           "horse_number": 7,
@@ -1360,6 +1360,260 @@
           "miaomi_score": 0.0,
           "is_value": false,
           "reasoning": "カフジエメンタール: 時計面で若干の不安要素あり / 武豊騎手への乗り替わりは明確な勝負気配 / 直近の仕上がりは安定"
+        }
+      ]
+    },
+    {
+      "race_id": "202609020211",
+      "race_name": "六甲Ｓ(L)",
+      "is_graded": false,
+      "place": "阪神",
+      "round": 11,
+      "top_pickup": {
+        "horse_number": 1,
+        "horse_name": "メイショウチタン",
+        "jockey_name": "古川吉",
+        "popularity": 10,
+        "odds": 9.9,
+        "features_raw": {
+          "umaban": 1.0,
+          "wakuban": 1.0,
+          "weight_carried": 58.0,
+          "horse_weight": 480.0,
+          "weight_change": 0.0,
+          "age": 9.0,
+          "time_index": 49.0,
+          "last_3f_index": 49.5,
+          "pedigree_index": 24.0,
+          "affinity_index": 26.0
+        },
+        "win_prob": 0.1,
+        "place_prob": 0.1,
+        "expectancy_score": 0.01,
+        "miaomi_score": 1.0,
+        "is_value": false,
+        "reasoning": "メイショウチタン: 時計面で若干の不安要素あり / 古川吉騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+      },
+      "axis_pickup": {
+        "horse_number": 2,
+        "horse_name": "ショウナンザナドゥ",
+        "jockey_name": "田口",
+        "popularity": 10,
+        "odds": 9.9,
+        "features_raw": {
+          "umaban": 2.0,
+          "wakuban": 2.0,
+          "weight_carried": 56.0,
+          "horse_weight": 480.0,
+          "weight_change": 0.0,
+          "age": 4.0,
+          "time_index": 53.0,
+          "last_3f_index": 51.5,
+          "pedigree_index": 23.0,
+          "affinity_index": 24.0
+        },
+        "win_prob": 0.1,
+        "place_prob": 0.1,
+        "expectancy_score": 0.01,
+        "miaomi_score": 1.0,
+        "is_value": false,
+        "reasoning": "ショウナンザナドゥ: 時計面で若干の不安要素あり / 田口騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+      },
+      "darkhorse_pickup": {
+        "horse_number": 3,
+        "horse_name": "メイショウシンタケ",
+        "jockey_name": "岩田望",
+        "popularity": 10,
+        "odds": 9.9,
+        "features_raw": {
+          "umaban": 3.0,
+          "wakuban": 3.0,
+          "weight_carried": 58.0,
+          "horse_weight": 480.0,
+          "weight_change": 0.0,
+          "age": 8.0,
+          "time_index": 47.0,
+          "last_3f_index": 48.5,
+          "pedigree_index": 22.0,
+          "affinity_index": 24.0
+        },
+        "win_prob": 0.1,
+        "place_prob": 0.1,
+        "expectancy_score": 0.01,
+        "miaomi_score": 1.0,
+        "is_value": false,
+        "reasoning": "メイショウシンタケ: 時計面で若干の不安要素あり / 岩田望騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+      },
+      "recommended_bet": "馬連 1 - 2 / ワイド 2 - 3",
+      "all_horses": [
+        {
+          "horse_number": 1,
+          "horse_name": "メイショウチタン",
+          "jockey_name": "古川吉",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "メイショウチタン: 時計面で若干の不安要素あり / 古川吉騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 2,
+          "horse_name": "ショウナンザナドゥ",
+          "jockey_name": "田口",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "ショウナンザナドゥ: 時計面で若干の不安要素あり / 田口騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 3,
+          "horse_name": "メイショウシンタケ",
+          "jockey_name": "岩田望",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "メイショウシンタケ: 時計面で若干の不安要素あり / 岩田望騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 4,
+          "horse_name": "アクートゥス",
+          "jockey_name": "西塚",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "アクートゥス: 時計面で若干の不安要素あり / 西塚騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 5,
+          "horse_name": "キョウエイブリッサ",
+          "jockey_name": "小崎",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "キョウエイブリッサ: 時計面で若干の不安要素あり / 小崎騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 6,
+          "horse_name": "ベラジオボンド",
+          "jockey_name": "池添",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "ベラジオボンド: 時計面で若干の不安要素あり / 池添騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 7,
+          "horse_name": "クランフォード",
+          "jockey_name": "幸",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "クランフォード: 時計面で若干の不安要素あり / 幸騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 8,
+          "horse_name": "オニャンコポン",
+          "jockey_name": "亀田",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "オニャンコポン: 時計面で若干の不安要素あり / 亀田騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 13,
+          "horse_name": "バレエマスター",
+          "jockey_name": "松若",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.1,
+          "expectancy_score": 0.01,
+          "miaomi_score": 1.0,
+          "is_value": false,
+          "reasoning": "バレエマスター: 時計面で若干の不安要素あり / 松若騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 9,
+          "horse_name": "ブルーミンデザイン",
+          "jockey_name": "斎藤",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "ブルーミンデザイン: 時計面で若干の不安要素あり / 斎藤騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 10,
+          "horse_name": "フロムダスク",
+          "jockey_name": "菱田",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "フロムダスク: 時計面で若干の不安要素あり / 菱田騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 11,
+          "horse_name": "アサヒ",
+          "jockey_name": "松本",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "アサヒ: 時計面で若干の不安要素あり / 松本騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        },
+        {
+          "horse_number": 12,
+          "horse_name": "グレイイングリーン",
+          "jockey_name": "吉村",
+          "popularity": 10,
+          "odds": 9.9,
+          "win_prob": 0.1,
+          "place_prob": 0.0,
+          "expectancy_score": 0.0,
+          "miaomi_score": 0.0,
+          "is_value": false,
+          "reasoning": "グレイイングリーン: 時計面で若干の不安要素あり / 吉村騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
         }
       ]
     }
