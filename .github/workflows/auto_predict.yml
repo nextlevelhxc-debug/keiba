@@ -37,6 +37,9 @@ jobs:
         pip install -r requirements-batch.txt
 
     - name: Run Auto Prediction Script
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       run: |
         python src/auto_batch_predict.py --status "${{ github.event.inputs.status }}"
         
