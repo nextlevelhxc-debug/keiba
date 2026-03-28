@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28 03:23:46",
+  "generated_at": "2026-03-28 06:35:57",
   "update_status": "【最新予想】",
   "races": [
     {
@@ -18,8 +18,8 @@
           "umaban": 1.0,
           "wakuban": 1.0,
           "weight_carried": 56.0,
-          "horse_weight": 480.0,
-          "weight_change": 0.0,
+          "horse_weight": 504.0,
+          "weight_change": -4.0,
           "age": 4.0,
           "time_index": 54.0,
           "last_3f_index": 52.0,
@@ -31,7 +31,7 @@
         "expectancy_score": 0.11,
         "miaomi_score": 11.0,
         "is_value": false,
-        "reasoning": "ミクニインスパイア: 時計面で若干の不安要素あり / 丹内騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        "reasoning": "ミクニインスパイア: 時計面で若干の不安要素あり / 丹内騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
       },
       "axis_pickup": {
         "horse_number": 2,
@@ -43,8 +43,8 @@
           "umaban": 2.0,
           "wakuban": 2.0,
           "weight_carried": 55.0,
-          "horse_weight": 480.0,
-          "weight_change": 0.0,
+          "horse_weight": 538.0,
+          "weight_change": 4.0,
           "age": 6.0,
           "time_index": 49.0,
           "last_3f_index": 49.5,
@@ -56,7 +56,7 @@
         "expectancy_score": 0.01,
         "miaomi_score": 1.0,
         "is_value": false,
-        "reasoning": "ホールネス: 時計面で若干の不安要素あり / ディー騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        "reasoning": "ホールネス: 時計面で若干の不安要素あり / ディー騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
       },
       "darkhorse_pickup": {
         "horse_number": 3,
@@ -68,8 +68,8 @@
           "umaban": 3.0,
           "wakuban": 2.0,
           "weight_carried": 55.0,
-          "horse_weight": 480.0,
-          "weight_change": 0.0,
+          "horse_weight": 462.0,
+          "weight_change": -2.0,
           "age": 5.0,
           "time_index": 49.0,
           "last_3f_index": 49.5,
@@ -81,7 +81,7 @@
         "expectancy_score": 0.01,
         "miaomi_score": 1.0,
         "is_value": false,
-        "reasoning": "クリスマスパレード: 時計面で若干の不安要素あり / 石川騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        "reasoning": "クリスマスパレード: 時計面で若干の不安要素あり / 石川騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
       },
       "recommended_bet": "馬連 1 - 2 / ワイド 2 - 3",
       "all_horses": [
@@ -96,7 +96,7 @@
           "expectancy_score": 0.11,
           "miaomi_score": 11.0,
           "is_value": false,
-          "reasoning": "ミクニインスパイア: 時計面で若干の不安要素あり / 丹内騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ミクニインスパイア: 時計面で若干の不安要素あり / 丹内騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 2,
@@ -109,7 +109,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ホールネス: 時計面で若干の不安要素あり / ディー騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ホールネス: 時計面で若干の不安要素あり / ディー騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 3,
@@ -122,7 +122,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "クリスマスパレード: 時計面で若干の不安要素あり / 石川騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "クリスマスパレード: 時計面で若干の不安要素あり / 石川騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 4,
@@ -135,7 +135,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "エヒト: 時計面で若干の不安要素あり / 川田騎手への乗り替わりは明確な勝負気配 / 直近の仕上がりは安定"
+          "reasoning": "エヒト: 時計面で若干の不安要素あり / 川田騎手への乗り替わりは明確な勝負気配 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 6,
@@ -148,7 +148,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "リビアングラス: 時計面で若干の不安要素あり / 三浦騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "リビアングラス: 時計面で若干の不安要素あり / 三浦騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 11,
@@ -161,7 +161,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ミステリーウェイ: 時計面で若干の不安要素あり / 松本騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ミステリーウェイ: 時計面で若干の不安要素あり / 松本騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 8,
@@ -174,7 +174,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ホウオウノーサイド: 時計面で若干の不安要素あり / 杉原騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ホウオウノーサイド: 時計面で若干の不安要素あり / 杉原騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 14,
@@ -187,7 +187,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ローシャムパーク: 時計面で若干の不安要素あり / ルメール騎手への乗り替わりは明確な勝負気配 / 直近の仕上がりは安定"
+          "reasoning": "ローシャムパーク: 時計面で若干の不安要素あり / ルメール騎手への乗り替わりは明確な勝負気配 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 13,
@@ -200,7 +200,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ブレイヴロッカー: 時計面で若干の不安要素あり / 荻野極騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ブレイヴロッカー: 時計面で若干の不安要素あり / 荻野極騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 7,
@@ -213,7 +213,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "コスモキュランダ: 時計面で若干の不安要素あり / 横山武騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "コスモキュランダ: 時計面で若干の不安要素あり / 横山武騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 5,
@@ -226,7 +226,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "アスクナイスショー: 時計面で若干の不安要素あり / 田辺騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "アスクナイスショー: 時計面で若干の不安要素あり / 田辺騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 10,
@@ -239,7 +239,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "シャイニングソード: 時計面で若干の不安要素あり / 西村淳騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "シャイニングソード: 時計面で若干の不安要素あり / 西村淳騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 9,
@@ -252,7 +252,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "マイネルケレリウス: 時計面で若干の不安要素あり / 松岡騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "マイネルケレリウス: 時計面で若干の不安要素あり / 松岡騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 12,
@@ -265,7 +265,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "チャックネイト: 時計面で若干の不安要素あり / 大野騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "チャックネイト: 時計面で若干の不安要素あり / 大野騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 15,
@@ -278,7 +278,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "マイユニバース: 時計面で若干の不安要素あり / 横山典騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "マイユニバース: 時計面で若干の不安要素あり / 横山典騎手とのコンビネーションに注目 / 馬体重の絞り込みでスピードアップに期待"
         }
       ]
     },
@@ -591,8 +591,8 @@
           "umaban": 1.0,
           "wakuban": 1.0,
           "weight_carried": 56.0,
-          "horse_weight": 480.0,
-          "weight_change": 0.0,
+          "horse_weight": 474.0,
+          "weight_change": -6.0,
           "age": 6.0,
           "time_index": 51.0,
           "last_3f_index": 50.5,
@@ -604,7 +604,7 @@
         "expectancy_score": 0.01,
         "miaomi_score": 1.0,
         "is_value": false,
-        "reasoning": "ミッキーツインクル: 時計面で若干の不安要素あり / 中井騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        "reasoning": "ミッキーツインクル: 時計面で若干の不安要素あり / 中井騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
       },
       "axis_pickup": {
         "horse_number": 10,
@@ -616,8 +616,8 @@
           "umaban": 10.0,
           "wakuban": 5.0,
           "weight_carried": 56.0,
-          "horse_weight": 480.0,
-          "weight_change": 0.0,
+          "horse_weight": 504.0,
+          "weight_change": -4.0,
           "age": 4.0,
           "time_index": 54.0,
           "last_3f_index": 52.0,
@@ -629,7 +629,7 @@
         "expectancy_score": 0.03,
         "miaomi_score": 3.0,
         "is_value": false,
-        "reasoning": "タガノアビー: 時計面で若干の不安要素あり / 古川吉騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        "reasoning": "タガノアビー: 時計面で若干の不安要素あり / 古川吉騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
       },
       "darkhorse_pickup": {
         "horse_number": 2,
@@ -641,8 +641,8 @@
           "umaban": 2.0,
           "wakuban": 1.0,
           "weight_carried": 56.0,
-          "horse_weight": 480.0,
-          "weight_change": 0.0,
+          "horse_weight": 428.0,
+          "weight_change": -6.0,
           "age": 4.0,
           "time_index": 53.0,
           "last_3f_index": 51.5,
@@ -654,7 +654,7 @@
         "expectancy_score": 0.01,
         "miaomi_score": 1.0,
         "is_value": false,
-        "reasoning": "ルージュソリテール: 時計面で若干の不安要素あり / 西塚騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        "reasoning": "ルージュソリテール: 時計面で若干の不安要素あり / 西塚騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
       },
       "recommended_bet": "馬連 1 - 10 / ワイド 10 - 2",
       "all_horses": [
@@ -669,7 +669,7 @@
           "expectancy_score": 0.03,
           "miaomi_score": 3.0,
           "is_value": false,
-          "reasoning": "タガノアビー: 時計面で若干の不安要素あり / 古川吉騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "タガノアビー: 時計面で若干の不安要素あり / 古川吉騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 1,
@@ -682,7 +682,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ミッキーツインクル: 時計面で若干の不安要素あり / 中井騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ミッキーツインクル: 時計面で若干の不安要素あり / 中井騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 7,
@@ -695,7 +695,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ジーティードレス: 時計面で若干の不安要素あり / 丸山騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ジーティードレス: 時計面で若干の不安要素あり / 丸山騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 2,
@@ -708,7 +708,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ルージュソリテール: 時計面で若干の不安要素あり / 西塚騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ルージュソリテール: 時計面で若干の不安要素あり / 西塚騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 8,
@@ -721,7 +721,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ウォーターガーベラ: 時計面で若干の不安要素あり / 高杉騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ウォーターガーベラ: 時計面で若干の不安要素あり / 高杉騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 5,
@@ -734,7 +734,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "レオテミス: 時計面で若干の不安要素あり / 柴田裕騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "レオテミス: 時計面で若干の不安要素あり / 柴田裕騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 14,
@@ -747,7 +747,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ピックアチェリー: 時計面で若干の不安要素あり / 吉田隼騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ピックアチェリー: 時計面で若干の不安要素あり / 吉田隼騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 3,
@@ -760,7 +760,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "エポックヴィーナス: 時計面で若干の不安要素あり / 田口騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "エポックヴィーナス: 時計面で若干の不安要素あり / 田口騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 6,
@@ -773,7 +773,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "マイエレメント: 時計面で若干の不安要素あり / 斎藤騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "マイエレメント: 時計面で若干の不安要素あり / 斎藤騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 4,
@@ -786,7 +786,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "クリニクラウン: 時計面で若干の不安要素あり / 岩田康騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "クリニクラウン: 時計面で若干の不安要素あり / 岩田康騎手とのコンビネーションに注目 / 馬体重の絞り込みでスピードアップに期待"
         },
         {
           "horse_number": 11,
@@ -799,7 +799,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "ハニーコム: 時計面で若干の不安要素あり / 浜中騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ハニーコム: 時計面で若干の不安要素あり / 浜中騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 9,
@@ -812,7 +812,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "キタサンダムール: 時計面で若干の不安要素あり / 国分恭騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "キタサンダムール: 時計面で若干の不安要素あり / 国分恭騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 12,
@@ -825,7 +825,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "ラーンザロープス: 時計面で若干の不安要素あり / 富田騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ラーンザロープス: 時計面で若干の不安要素あり / 富田騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 13,
@@ -838,7 +838,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "ミラビリスマジック: 時計面で若干の不安要素あり / 小沢騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ミラビリスマジック: 時計面で若干の不安要素あり / 小沢騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 15,
@@ -851,7 +851,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "ミエスペランサ: 時計面で若干の不安要素あり / 亀田騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ミエスペランサ: 時計面で若干の不安要素あり / 亀田騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 16,
@@ -864,7 +864,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "コンドゥイア: 時計面で若干の不安要素あり / 池添騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "コンドゥイア: 時計面で若干の不安要素あり / 池添騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         }
       ]
     },
@@ -1203,7 +1203,7 @@
           "umaban": 1.0,
           "wakuban": 1.0,
           "weight_carried": 57.0,
-          "horse_weight": 480.0,
+          "horse_weight": 518.0,
           "weight_change": 0.0,
           "age": 3.0,
           "time_index": 54.0,
@@ -1216,7 +1216,7 @@
         "expectancy_score": 0.06,
         "miaomi_score": 6.0,
         "is_value": false,
-        "reasoning": "フレイムスター: 時計面で若干の不安要素あり / 団野騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        "reasoning": "フレイムスター: 時計面で若干の不安要素あり / 団野騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
       },
       "axis_pickup": {
         "horse_number": 3,
@@ -1228,8 +1228,8 @@
           "umaban": 3.0,
           "wakuban": 3.0,
           "weight_carried": 57.0,
-          "horse_weight": 480.0,
-          "weight_change": 0.0,
+          "horse_weight": 484.0,
+          "weight_change": -10.0,
           "age": 3.0,
           "time_index": 46.0,
           "last_3f_index": 48.0,
@@ -1241,7 +1241,7 @@
         "expectancy_score": 0.01,
         "miaomi_score": 1.0,
         "is_value": false,
-        "reasoning": "ローベルクランツ: 時計面で若干の不安要素あり / 松山騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        "reasoning": "ローベルクランツ: 時計面で若干の不安要素あり / 松山騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
       },
       "darkhorse_pickup": {
         "horse_number": 4,
@@ -1253,7 +1253,7 @@
           "umaban": 4.0,
           "wakuban": 4.0,
           "weight_carried": 57.0,
-          "horse_weight": 480.0,
+          "horse_weight": 474.0,
           "weight_change": 0.0,
           "age": 3.0,
           "time_index": 52.0,
@@ -1266,7 +1266,7 @@
         "expectancy_score": 0.01,
         "miaomi_score": 1.0,
         "is_value": false,
-        "reasoning": "アルトラムス: 時計面で若干の不安要素あり / 岩田望騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+        "reasoning": "アルトラムス: 時計面で若干の不安要素あり / 岩田望騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
       },
       "recommended_bet": "馬連 1 - 3 / ワイド 3 - 4",
       "all_horses": [
@@ -1281,7 +1281,7 @@
           "expectancy_score": 0.06,
           "miaomi_score": 6.0,
           "is_value": false,
-          "reasoning": "フレイムスター: 時計面で若干の不安要素あり / 団野騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "フレイムスター: 時計面で若干の不安要素あり / 団野騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 3,
@@ -1294,7 +1294,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ローベルクランツ: 時計面で若干の不安要素あり / 松山騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ローベルクランツ: 時計面で若干の不安要素あり / 松山騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 4,
@@ -1307,7 +1307,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "アルトラムス: 時計面で若干の不安要素あり / 岩田望騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "アルトラムス: 時計面で若干の不安要素あり / 岩田望騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 6,
@@ -1320,7 +1320,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ウップヘリーア: 時計面で若干の不安要素あり / 吉村騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ウップヘリーア: 時計面で若干の不安要素あり / 吉村騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 5,
@@ -1333,7 +1333,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "ブリガンティン: 時計面で若干の不安要素あり / 原騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "ブリガンティン: 時計面で若干の不安要素あり / 原騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 7,
@@ -1346,7 +1346,7 @@
           "expectancy_score": 0.01,
           "miaomi_score": 1.0,
           "is_value": false,
-          "reasoning": "シーズザスローン: 時計面で若干の不安要素あり / 幸騎手とのコンビネーションに注目 / 直近の仕上がりは安定"
+          "reasoning": "シーズザスローン: 時計面で若干の不安要素あり / 幸騎手とのコンビネーションに注目 / 馬体重の推移から体調の良さが伺える"
         },
         {
           "horse_number": 2,
@@ -1359,7 +1359,7 @@
           "expectancy_score": 0.0,
           "miaomi_score": 0.0,
           "is_value": false,
-          "reasoning": "カフジエメンタール: 時計面で若干の不安要素あり / 武豊騎手への乗り替わりは明確な勝負気配 / 直近の仕上がりは安定"
+          "reasoning": "カフジエメンタール: 時計面で若干の不安要素あり / 武豊騎手への乗り替わりは明確な勝負気配 / 馬体重の推移から体調の良さが伺える"
         }
       ]
     },
